@@ -1,0 +1,11 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/.idea
+/hipac-rpc.iml
+/client/client.iml
+/core/rpc-core.iml
+/server/server.iml
